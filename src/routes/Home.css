@@ -1,0 +1,43 @@
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-family: 'Crete Round', serif;
+}
+
+.posts {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #777 ;
+    
+}
+.posts p, .posts h2{
+    margin-bottom: 1rem;
+    font-family: 'Anton', sans-serif;
+}
+
+.posts h2::first-letter{
+    text-transform: uppercase;
+}
+
+.btn{
+    background-color: #fff;
+    color: black;
+    border: 1px solid #fff;
+    opacity: 1;
+    padding: 0.5rem 1rem; 
+    font-family: 'Oswald', sans-serif;
+    border-radius: 1rem;
+    max-width: 100px;
+    text-align: center;
+    cursor: pointer;
+    transition: 04ms;
+}
+
+.btn:hover{
+
+    background-color: black;
+    color: #fff;
+}
