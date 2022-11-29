@@ -1,4 +1,6 @@
-## consuming_api_get_post_methods
+### consuming_api_get_post_methods
+## ![Captura de tela 2022-11-29 105336](https://user-images.githubusercontent.com/38886580/204547384-6e89293b-57ae-4277-9eec-7c5572ecd0d8.png)
+
 ## projeto construído para treinar React router dom e consumo de api. Nesse projeto foram utilizados React, React router dom, Axios, hoocks, vite, CSS e HTML. 
  💻link da api rest: https://jsonplaceholder.typicode.com/  
   Json Placeholder, que é uma Fake Api, no qual conseguimos guardar informações simulando uma Api.
