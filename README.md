@@ -9,6 +9,7 @@ projeto construído para treinar React router dom e consumo de api. Nesse projet
 - vite
 - React router dom
 - Hooks
+
 ![GIF 28-11-2022 22-28-23](https://user-images.githubusercontent.com/38886580/204416123-5b95ce88-a31c-4854-b52f-faaaeb538eaa.gif)
 
 🚀 Como executar.
