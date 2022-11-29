@@ -5,7 +5,6 @@
 
 - REACT JS
 - HTML
-- Styled-components
 - Javascript
 - CSS
 - vite
